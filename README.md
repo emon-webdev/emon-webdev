@@ -60,24 +60,6 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 </div>
 
 
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
-
-<br >
-
-
-#### ?
-
-
-#### Github Stats
-
-
-</details>
-
-
-<h2>❤️ Thank you very much! ❤️</h2>
  
  
  ## 💻Current Status
@@ -106,6 +88,25 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 </div>
  
  
+ 
+ <details>
+<summary>
+  You wanna know more about me?
+</summary>
+
+<br >
+
+
+#### ?
+
+
+#### Github Stats
+
+
+</details>
+
+
+<h2>❤️ Thank you very much! ❤️</h2>
 
  
 
