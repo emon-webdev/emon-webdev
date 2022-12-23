@@ -65,13 +65,6 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
  ## 💻Current Status
 <div class="overflow-x-auto">
   <table class="table w-full">
-    <!-- head -->
-    <thead>
-      <tr>
-        <th>List</th>
-        <th>Projects</th>
-      </tr>
-    </thead>
     <tbody>
       <!-- row 1 -->
       <tr>
