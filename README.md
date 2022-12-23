@@ -82,13 +82,10 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
  
  
   
-  <div>
-    ## Technologies that I know
  <p align='center'>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact%22%20alt=%22emon-webdev" />
  </p>
-   
-  ## :chart_with_upwards_trend: Current Stats
+
 
    <br />
    <p align="center">
@@ -97,7 +94,6 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
      <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' />
    </p>
   
-  </div>
  
 
  
