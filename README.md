@@ -5,7 +5,6 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="emon-webdev" /> </p>
 
-<!--####My name is Emon Hossain. Description____.-->
 #### Summary 
 I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I am eager to learn new things and keep myself updated. Hard work never bothers me. "Success often comes to those who embrace hard work" I never give up until I finish my job. So you can work with me with full confidence.
 <br/>
