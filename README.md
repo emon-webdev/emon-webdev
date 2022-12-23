@@ -2,7 +2,7 @@
 
 ![Github Banner](assets/emonBg.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="emon-webdev" /> </p>
+
 
 #### Summary 
 I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I am eager to learn new things and keep myself updated. Hard work never bothers me. "Success often comes to those who embrace hard work" I never give up until I finish my job. So you can work with me with full confidence.
@@ -65,6 +65,7 @@ Thanks a lot ....❤️
       <!-- row 1 -->
       <tr>
         <td>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="emon-webdev" /> </p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact%22%20alt=%22emon-webdev" /></td>
   <td>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emon-webdev&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
