@@ -11,7 +11,7 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 
 ## 🌐 Socials: Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/emonhossain6) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon007iu/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@emon_hossain7) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon.hossain.wd@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/emon.webdev) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon-webdev/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@emon_webdev) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon.hossain.web@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...react.js / node.js
@@ -57,7 +57,33 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
   </table>
 </div>
 
-<details>
+<<<<<<< HEAD
+
+# <details>
+
+## 💻Current Status
+
+<div class="overflow-x-auto">
+  <table class="table w-full">
+    <tbody>
+      <!-- row 1 -->
+      <tr>
+        <td>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact%22%20alt=%22emon-webdev" /></td>
+  <td>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emon-webdev&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+    <br/>
+     <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' />
+       </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+ 
+ 
+ 
+ <details>
+>>>>>>> e1cc8b3fab649a0083dfc3e13bde0e3173906fdf
 <summary>
   You wanna know more about me?
 </summary>
@@ -71,3 +97,7 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 </details>
 
 <h2>❤️ Thank you very much! ❤️</h2>
+<<<<<<< HEAD
+=======
+
+> > > > > > > e1cc8b3fab649a0083dfc3e13bde0e3173906fdf
