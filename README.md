@@ -57,8 +57,6 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
   </table>
 </div>
 
-<<<<<<< HEAD
-
 # <details>
 
 ## 💻Current Status
@@ -97,7 +95,3 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 </details>
 
 <h2>❤️ Thank you very much! ❤️</h2>
-<<<<<<< HEAD
-=======
-
-> > > > > > > e1cc8b3fab649a0083dfc3e13bde0e3173906fdf
