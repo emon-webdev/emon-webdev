@@ -80,6 +80,31 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 <h2>❤️ Thank you very much! ❤️</h2>
  
  
+ ### Table
+<div class="overflow-x-auto">
+  <table class="table w-full">
+    <!-- head -->
+    <thead>
+      <tr>
+        <th>List</th>
+        <th>Projects</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- row 1 -->
+      <tr>
+        <th>1</th><td>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact%22%20alt=%22emon-webdev" /></td>
+        <td>
+      
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emon-webdev&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+    <br/>
+     <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' />
+       </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
  
   
  <p align='center'>
