@@ -80,7 +80,7 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 <h2>❤️ Thank you very much! ❤️</h2>
  
  
- ### Table
+ ## 💻Current Status
 <div class="overflow-x-auto">
   <table class="table w-full">
     <!-- head -->
