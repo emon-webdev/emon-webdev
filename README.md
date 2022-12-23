@@ -2,7 +2,6 @@
 
 ![Github Banner](assets/emonBg.png)
 
-<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="emon-webdev" /> </p>
 
 #### Summary 
