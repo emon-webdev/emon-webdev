@@ -78,4 +78,16 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 
 
 <h2>❤️ Thank you very much! ❤️</h2>
+ 
+ 
+ 
+ 
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact%22%20alt=%22emon-webdev" />
+</p>
+<br/>
+ 
+
+ 
+ 
 
