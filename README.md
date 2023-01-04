@@ -29,7 +29,8 @@ Thanks a lot ....❤️
         <th>Projects</th>
         <th>Description</th>
         <th>Website Link</th>
-         <th>Code Link</th>
+         <th>Client Code Link</th>
+        <th>Server Code Link</th>
       </tr>
     </thead>
     <tbody>
@@ -39,7 +40,8 @@ Thanks a lot ....❤️
         <td>Projects Name</td>
         <td>Projects Description</td>
         <td>Website Link</td>
-        <td>Code Link</td>
+        <td>Client Code Link</td>
+        <td>Server Code Link</td>
       </tr>
     </tbody>
   </table>
