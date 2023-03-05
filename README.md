@@ -50,34 +50,10 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
       <tr>
         <th>1</th>
         <td>Capital Trust Bank</td>
-        <td>Projects Description</td>
-        <td>Live Link(https://capital-trust-bank-ee791.web.app/) </td>
-        <td>[!(link)] (https://github.com/emon-webdev/Capital-Trust-Bank)</td>
+        <td>Banking Website (Team Project: Number of team members was 6 people. The duration was seven weeks.)</td>
+        <td><a href="https://capital-trust-bank-ee791.web.app/" target="_blank">Live Link</a></td>
+        <td><a href="https://github.com/emon-webdev/Capital-Trust-Bank" target="_blank">Client Code Link</a></td>
         <td><a href="https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server" target="_blank">Server Code Link</a></td>
-      </tr>
-      <tr>
-        <th>2</th>
-        <td>Projects Name</td>
-        <td>Projects Description</td>
-        <td>Live Website </td>
-        <td>Client Code Link</td>
-        <td>Server Code Link</td>
-      </tr>
-      <tr>
-        <th>3</th>
-        <td>Projects Name</td>
-        <td>Projects Description</td>
-        <td>Live Website </td>
-        <td>Client Code Link</td>
-        <td>Server Code Link</td>
-      </tr>
-      <tr>
-        <th>4</th>
-        <td>Projects Name</td>
-        <td>Projects Description</td>
-        <td>Live Website </td>
-        <td>Client Code Link</td>
-        <td>Server Code Link</td>
       </tr>
     </tbody>
   </table>
