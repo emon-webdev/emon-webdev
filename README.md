@@ -13,8 +13,8 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/emon.webdev) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon-webdev/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@emon_webdev) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon.hossain.web@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...react.js / node.js
+- 🔭 I’m currently working on ... react.js / node.js
+- 🌱 I’m currently learning ... redux, next.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -38,7 +38,7 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
     <thead>
       <tr>
         <th>List</th>
-        <th>Projects</th>
+        <th>Projects Name</th>
         <th>Description</th>
         <th>Website Link</th>
          <th>Client Code Link</th>
@@ -49,11 +49,11 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
       <!-- row 1 -->
       <tr>
         <th>1</th>
-        <td>Projects Name</td>
+        <td>Capital Trust Bank</td>
         <td>Projects Description</td>
-        <td>Live Website </td>
-        <td>Client Code Link</td>
-        <td>Server Code Link</td>
+        <td>Live Link(https://capital-trust-bank-ee791.web.app/) </td>
+        <td>[!(link)] (https://github.com/emon-webdev/Capital-Trust-Bank)</td>
+        <td>Server Code Link (https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server) </td>
       </tr>
       <tr>
         <th>2</th>
