@@ -56,17 +56,17 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
         <td><a href="https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server" target="_blank">Server Code Link</a></td>
       </tr>
        <tr>
-        <th>1</th>
+        <th>2</th>
         <td>Car Showroom</td>
-        <td>Banking Website (Team Project: Number of team members was 6 people. The duration was seven weeks.)</td>
+        <td>Car Resell Website (User can) (using: Mern stack Project)</td>
         <td><a href="https://car-showroom-520ff.web.app/" target="_blank">Live Link</a></td>
         <td><a href="https://github.com/emon-webdev/car-showroom" target="_blank">Client Code Link</a></td>
         <td><a href="https://github.com/emon-webdev/car-showroom-server" target="_blank">Server Code Link</a></td>
       </tr>
        <tr>
-        <th>2</th>
+        <th>3</th>
         <td>Cleaning Services</td>
-        <td>Banking Website (Team Project: Number of team members was 6 people. The duration was seven weeks.)</td>
+        <td>Cleaning Services (user can) (using: Mern stack Project)</td>
         <td><a href="https://cleaning-service-9d61e.web.app/" target="_blank">Live Link</a></td>
         <td><a href="https://github.com/emon-webdev/cleaning-service" target="_blank">Client Code Link</a></td>
         <td><a href="https://github.com/emon-webdev/cleaning-service-server" target="_blank">Server Code Link</a></td>
