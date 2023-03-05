@@ -53,7 +53,7 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
         <td>Projects Description</td>
         <td>Live Link(https://capital-trust-bank-ee791.web.app/) </td>
         <td>[!(link)] (https://github.com/emon-webdev/Capital-Trust-Bank)</td>
-        <td>Server Code Link (https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server) </td>
+        <td><a href="https://github.com/AkashChakrabortty/Capital-Trust-Bank-Server" target="_blank">Server Code Link</a></td>
       </tr>
       <tr>
         <th>2</th>
