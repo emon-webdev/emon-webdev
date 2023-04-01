@@ -30,8 +30,6 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
 
 ## 💻 My Projects
 
-### Table
-
 <div class="overflow-x-auto">
   <table class="table w-full">
     <!-- head -->
