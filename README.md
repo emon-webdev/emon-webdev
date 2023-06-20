@@ -99,6 +99,10 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
     </tbody>
   </table>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emon-webdev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emon-webdev&theme=dark&background=000000)](https://github.com/emon-webdev/github-readme-stats)
  
  
  
