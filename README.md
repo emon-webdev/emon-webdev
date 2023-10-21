@@ -50,7 +50,7 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
         <td>The Cake Stand</td>
         <td>Restaurant Website (MERN-STACK) (Using: ReactJs, Redux-Toolkit, Node, ExpressJs, Mongoose, Tailwind & so many packages)</td>
         <td><a href="https://the-cake-stand.web.app/" target="_blank">Live Link</a></td>
-        <td><a href="https://github.com/emon-webdev/the-cake-stand" target="_blank">Client Code Link</a></td>
+        <td><a href="https://github.com/emon-webdev/the-cake-stand" target="_blank">Client Link</a></td>
         <td><a href="https://github.com/emon-webdev/The-Cake-Stand-Server" target="_blank">Server Link</a></td>
       </tr>
       <tr>
