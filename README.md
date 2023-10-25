@@ -96,15 +96,16 @@ I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/b
     <tbody>
       <!-- row 1 -->
       <tr>
-         <th>Github Stats</th>
+         <th>Stats</th>
          <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon-webdev&show_icons=true&locale=en&layout=compact" alt="emon-webdev" />
        </td>
         <td>
+          <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' alt="emon-webdev" />
+              
+                <br/>
+                <br/>
               <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon-webdev" alt="emon-webdev" />
-                <br/>
-                <br/>
-              <img src='https://github-readme-stats.vercel.app/api?username=emon-webdev&show_icons=true&locale=en' alt="emon-webdev" />
        </td>
       </tr>
     </tbody>
