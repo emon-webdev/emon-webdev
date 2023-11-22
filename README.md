@@ -7,7 +7,7 @@
 
 <!--####My name is Emon Hossain. Description____.-->
 
-I'm Emon Hossain, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+I'm Emon Hossain, a Mern Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
 
 ## 🌐 Socials: Connect with me!
 
