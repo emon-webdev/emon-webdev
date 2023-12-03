@@ -32,7 +32,7 @@ I'm Emon Hossain, a Mern Stack Web Application Developer from <img src="assets/b
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  
+![DaisyUI](https://img.shields.io/badge/daisyui-black?style=for-the-badge&logo=daisyui&logoColor=5849BE)  
 ### 🌐 Backend-End
 ![Mongoose](https://img.shields.io/badge/Mongoose-%46E3B7.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
