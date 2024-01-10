@@ -100,6 +100,15 @@ I'm Emon Hossain, a Mern Stack Web Application Developer from <img src="assets/b
       <!-- row 1 -->
       <tr>
         <th>1</th>
+        <td>Soulmate</td>
+        <td>Matrimonial Website (MERN-STACK) (Using: NextJs, Redux-Toolkit, NodeJa, ExpressJs, Mongoose, Material UI & so many packages)</td>
+        <td><a href="soulmate-metrimony.vercel.app" target="_blank">Live Link</a></td>
+        <td><a href="https://github.com/emon-webdev/soulmate" target="_blank">Client Link</a></td>
+        <td><a href="https://github.com/emon-webdev/soulmate-server" target="_blank">Server Link</a></td>
+      </tr>
+      <!-- row 1 -->
+      <tr>
+        <th>1</th>
         <td>The Cake Stand</td>
         <td>Restaurant Website (MERN-STACK) (Using: ReactJs, Redux-Toolkit, Node, ExpressJs, Mongoose, Tailwind & so many packages)</td>
         <td><a href="https://the-cake-stand.web.app/" target="_blank">Live Link</a></td>
